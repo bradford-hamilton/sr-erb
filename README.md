@@ -1,1 +1,1 @@
-Rails Blog Practice
+sr-erb
